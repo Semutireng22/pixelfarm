@@ -31,7 +31,7 @@ Register : [PixelFarm](https://t.me/pixel_farmm_bot?start=ot6r7o)
 
 3. Set up your account ID:
 
-   Place your account ID in a file named `data.txt`.
+   Place your auth code in a file named `data.txt`. [(How to get code auth)](#how-to-get-telegram-data)
 
 4. Run the script:
 
